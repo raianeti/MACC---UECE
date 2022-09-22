@@ -1,2 +1,2 @@
-# MACC--UECE
+# MACC-UECE
 Trabalho PAA - MACC
